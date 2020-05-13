@@ -12,3 +12,6 @@ If you want to train , just run "python q_learning.py t" in CMD/Anaconda prompt.
 Open to suggestions as well.
 
 Thanks!
+
+![diagramm](https://user-images.githubusercontent.com/38054310/81842762-34047200-956a-11ea-9e27-8b7e461821c8.png)
+
