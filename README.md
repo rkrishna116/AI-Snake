@@ -7,7 +7,7 @@ To start:
 Run "python q_learning.py p" to play in CMD/Anaconda prompt
 
 But if you want to make some changes like change learning rate , alpha , gamma , be my guest .
-If you want to train , just run "python snake_train.py t" in CMD/Anaconda prompt.
+If you want to train , just run "python python q_learning.py t" in CMD/Anaconda prompt.
 
 Open to suggestions as well.
 
